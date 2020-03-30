@@ -1,12 +1,12 @@
-# Can We Produce Enough Electricity for an All Electric Car Fleet?
+# Can We Produce Enough Electricity for an All-Electric Car Fleet?
 
-Abandoning our current fossil fuel based car fleet seems to be one major step toward a sustainable society. However, one can raise the question if we are able to substitute the current car fleet with an all electric one. Especially if we can produce enough electricity to power it.
+Abandoning our current fossil fuel-based car fleet seems to be one major step toward a sustainable society. However, one can raise the question if we are able to substitute the current car fleet with an all-electric one. Especially, if we can produce enough electricity to power it.
 
 To answer this question we need to know how much energy actually is consumed by our car fleet and how much energy we can produce currently - and potentially in the future.
 
-There is a [recent contribution by German physicist Harald Lesch on this topic][1]. He investigated scenarios of switching the power supply for cars from mainly fuel today to either Li-Ion or hydrogen technologies. He focussed mainly on the peak power consumption of an all electric car fleet and the implications on the power infrastructure from Germany. His argument goes like this: Assume that we replace all currently existing cars (54 million in Germany) with battery powered vehicles. Then assume that 2 \% of these cars need to be charged in parallel, namely 1 million. This could happen e.g. around rush hours times when people need to make sure their cars will carry them to their destination. And then assume that all cars will be charged using a fast charger with a power of 350 kW (currently state of the art but as humans tend to be striving for convenience wherever possible this can be expected to be the standard in future.) This results in a demand of 350 GW electrical power from the grid. This compares to a current [power production between 40 and 80 GW in Germany][2]. In addition Lesch mentions the complications that we are already facing in providing a stable power grid. So this seems to be a major challenge when we think about an all electric car fleet.
+There is a [recent contribution by German physicist Harald Lesch on this topic][1]. He investigated scenarios of switching the power supply for cars from mainly fuel today to either Li-Ion or hydrogen technologies. He focussed mainly on the peak power consumption of an all-electric car fleet and the implications on the power infrastructure from Germany. His argument goes like this: Assume that we replace all currently existing cars (54 million in Germany) with battery-powered vehicles. Then assume that 2 \% of these cars need to be charged in parallel, namely 1 million. This could happen e.g. around rush hour times when people need to make sure their cars will carry them to their destination. And then assume that all cars will be charged using a fast charger with a power of 350 kW (current state of the art but as humans tend to be striving for convenience wherever possible this can be expected to be the standard in future.) This results in a demand of 350 GW electrical power from the grid. This compares to a current [power production between 40 and 80 GW in Germany][2]. In addition, Lesch mentions the complications that we are already facing in providing a stable power grid. So this seems to be a major challenge when we think about an all-electric car fleet.
 
-Besides the peak *power* need illustrated in the example by Lesch I wondered if we are capable of producing enough *energy* to support the car fleet. [According to the Umweltbundesamt (German Federal Environment Agency)][3] the overall consumption of fuel, diesel and petrol in  millions of litres per year, is depicted here
+Besides the peak *power* need illustrated in the example by Lesch, I wondered if we are capable of producing enough *energy* to support the car fleet. [According to the Umweltbundesamt (German Federal Environment Agency)][3] the overall consumption of fuel, diesel and petrol in  millions of liters per year, is depicted here
 
 ![Fuel consumption of traffic in Germany][fuel_usage]
 
@@ -15,7 +15,7 @@ The [fuel values of diesel and petrol (see the table under "Flüssige Brennstoff
 1. Diesel: 9,7 kWh/L
 2. Petrol: 8,8 kWh/L
 
-For simplicity we can assume them to be roughly 10 kWh/L. This allows us now to use the numbers above to estimate the total *energy* needed to run our current car fleet
+For simplicity, we can assume them to be roughly 10 kWh/L. This allows us now to use the numbers above to estimate the total *energy* needed to run our current car fleet
 ![Energy consumption of traffic in Germany][total_traffic]
 
 Interestingly this seems to stay more or less constant over the past 20 years.
@@ -25,6 +25,8 @@ The BMWI (German Federal Ministry for Economic Affairs and Energy) states the [p
 [Friedrich Wagner states the overall potential for power generation based on photovoltaic and wind energy to 900 TWh per year][5] with the climate conditions from 2018.
 
 ![Energy consumption and production capabilities in Germany][consumption_production]
+
+Obviously, we could cover the amount of energy needed for an all-electric car fleet by relying on renewable energy sources. However, for the overall energy need we would require different solutions as well.
 
 Sources (in German):
 
